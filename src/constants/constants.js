@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Airbnb Clone",
-    description: "Something...",
+    description: "Something...Here",
     image: "/images/3.jpeg",
     tags: ["React", "Next.js", "Tailwind CSS"],
     source: "https://airbnb-react-2qb2cpb8r-taevonjordan11.vercel.app/",
