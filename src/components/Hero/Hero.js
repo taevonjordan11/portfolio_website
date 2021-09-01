@@ -12,7 +12,7 @@ const Hero = (props) => (
           Taevon Jordan <br />
         </SectionTitle>
         <SectionText>
-        Hi, Welcom to my personal portfolio! Here, you can learn about me and view my latest projects.
+        Welcome to my personal portfolio! Here, you can learn about me and view my latest projects.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
