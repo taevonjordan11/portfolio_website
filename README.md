@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](taevonjordan.dev)
