@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Airbnb Clone",
-    description: "Something...Here",
+    description: "A responsive single page web application with Airbnb like functionality.",
     image: "/images/3.jpeg",
     tags: ["React", "Next.js", "Tailwind CSS"],
     source: "https://airbnb-react-2qb2cpb8r-taevonjordan11.vercel.app/",
@@ -14,7 +14,7 @@ export const projects = [
       "Mobile application designed for connecting studio owners with those seeking studio rentals.",
     image: "/images/1.jpeg",
     tags: ["React Native", "Ruby on Rails", "PostgreSQL"],
-    source: "https://google.com",
+    source: "https://www.youtube.com/watch?v=TlBnyscGgNU&ab_channel=prodbypluss",
     visit: "https://github.com/taevonjordan11/studi-u-frontend",
     id: 0,
   },
@@ -46,7 +46,7 @@ export const TimeLineData = [
   { year: 2019, text: "Began my coding journey" },
   {
     year: 2020,
-    text: "Enrolled in Flatiron School and later the completed bootcamp",
+    text: "Enrolled in Flatiron School and later completed the bootcamp",
   },
   {
     year: 2021,

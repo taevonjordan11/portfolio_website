@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-### [Live Site](taevonjordan.dev)
+### [Live Site](https://www.taevonjordan.dev/)
