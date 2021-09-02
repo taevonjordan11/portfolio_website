@@ -4,6 +4,9 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
+
+
+
 const Hero = (props) => (
   <>
     <Section row nopadding>
