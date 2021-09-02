@@ -46,7 +46,7 @@ export const TimeLineData = [
   { year: 2019, text: "Began my coding journey" },
   {
     year: 2020,
-    text: "Enrolled in Flatiron School and later completed bootcamp",
+    text: "Enrolled in Flatiron School and later the completed bootcamp",
   },
   {
     year: 2021,

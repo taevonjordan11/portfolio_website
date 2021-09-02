@@ -18,10 +18,11 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Taevon Jordan <br />
+          Software Engineer <br />
         </SectionTitle>
         <SectionText>
-          Welcome to my personal portfolio! Here, you can learn about me and
-          view my latest projects.
+          Hello and welcome to my software engineering portfolio! Here, you can
+          learn about me and view my latest projects.
         </SectionText>
         <Button onClick={btnClick}>Learn More</Button>
       </LeftSection>
