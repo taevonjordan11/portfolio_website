@@ -24,9 +24,20 @@ export const projects = [
       "Peer to Peer, E-Commerce Web Application for buying and selling contemporary fashion.",
     image: "/images/2.jpeg",
     tags: ["Ruby on Rails", "HTML", "CSS", "SQLite3"],
-    source: "https://www.youtube.com/watch?v=riDgOx5j7uk&ab_channel=TaevonJordan",
+    source:
+      "https://www.youtube.com/watch?v=riDgOx5j7uk&ab_channel=TaevonJordan",
     visit: "https://github.com/dukhyunko93/buy_and_sell",
     id: 1,
+  },
+  {
+    title: "!Amazon",
+    description:
+      "Fully functioning single-page application with many E-commerce Solutions.",
+    image: "/images/4.jpeg",
+    tags: ["React", "Firebase", "HTML", "CSS", "Stripe api"],
+    source: "https://clone-2c8cb.firebaseapp.com/",
+    visit: "https://github.com/taevonjordan11/amazon-clone",
+    id: 3,
   },
 ];
 

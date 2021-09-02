@@ -1,8 +1,18 @@
-import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import React from "react";
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 
-import { SocialIcons } from '../Header/HeaderStyles';
-import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { SocialIcons } from "../Header/HeaderStyles";
+import {
+  CompanyContainer,
+  FooterWrapper,
+  LinkColumn,
+  LinkItem,
+  LinkList,
+  LinkTitle,
+  Slogan,
+  SocialContainer,
+  SocialIconsContainer,
+} from "./FooterStyles";
 
 const Footer = () => {
   return (
@@ -21,18 +31,18 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Making a difference in people’s lives through technology.</Slogan>
+          <Slogan>
+            Making a difference in people’s lives through technology.
+          </Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/taevonjordan11">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/taevon-jordan-477797196/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
-            <AiFillInstagram size="3rem" />
-          </SocialIcons>
+ 
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>

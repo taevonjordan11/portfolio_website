@@ -1,11 +1,16 @@
-import React from 'react';
+import React from "react";
 
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import {
+  Section,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import Button from "../../styles/GlobalComponents/Button";
+import { LeftSection } from "./HeroStyles";
 
-
-
+const btnClick = () => {
+  window.open("https://www.google.com");
+};
 
 const Hero = (props) => (
   <>
@@ -15,9 +20,10 @@ const Hero = (props) => (
           Taevon Jordan <br />
         </SectionTitle>
         <SectionText>
-        Welcome to my personal portfolio! Here, you can learn about me and view my latest projects.
+          Welcome to my personal portfolio! Here, you can learn about me and
+          view my latest projects.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={btnClick}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
