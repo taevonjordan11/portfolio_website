@@ -10,7 +10,7 @@ import { LeftSection } from "./HeroStyles";
 
 const btnClick = () => {
   window.open(
-    "https://drive.google.com/file/d/1G8VJ1XTc1Rxc21PCNHSdM2q7b4lwX2qQ/view?usp=sharing"
+    "https://drive.google.com/file/d/1EcnP0OVaj5fBrqBtbkQ0hGVBDZi5GJQd/view?usp=sharing"
   );
 };
 
