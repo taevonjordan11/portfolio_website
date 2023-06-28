@@ -8,11 +8,11 @@ import {
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
-const btnClick = () => {
-  window.open(
-    "https://drive.google.com/file/d/1EcnP0OVaj5fBrqBtbkQ0hGVBDZi5GJQd/view?usp=sharing"
-  );
-};
+// const btnClick = () => {
+//   window.open(
+//     "https://drive.google.com/file/d/1EcnP0OVaj5fBrqBtbkQ0hGVBDZi5GJQd/view?usp=sharing"
+//   );
+// };
 
 const Hero = (props) => (
   <>
@@ -26,7 +26,7 @@ const Hero = (props) => (
           Hello and welcome to my software engineering portfolio! Here, you can
           learn a bit about me and view my latest projects.
         </SectionText>
-        <Button onClick={btnClick}>Learn More</Button>
+        <Button>Learn More</Button>
       </LeftSection>
     </Section>
   </>
