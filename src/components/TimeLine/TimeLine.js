@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Experienced coding bootcamp graduate with extensive background in various coding languages, developing mobile applications, and building websites from the ground up. Specializes in JavaScript and Ruby. Professional strengths include creative problem-solving, written and verbal communication, and time management. Detail-oriented mindset from 3+ years of experience in the audio engineering industry.
+      I am a passionate and experienced software engineer. Over the years, I have developed a strong foundation in software development, programming languages, and problem-solving skills.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
