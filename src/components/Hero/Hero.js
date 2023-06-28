@@ -10,7 +10,7 @@ import { LeftSection } from "./HeroStyles";
 
 // const btnClick = () => {
 //   window.open(
-//     "https://drive.google.com/file/d/1EcnP0OVaj5fBrqBtbkQ0hGVBDZi5GJQd/view?usp=sharing"
+//     "resume link"
 //   );
 // };
 
@@ -23,8 +23,8 @@ const Hero = (props) => (
           Software Engineer <br />
         </SectionTitle>
         <SectionText>
-          Hello and welcome to my software engineering portfolio! Here, you can
-          learn a bit about me and view my latest projects.
+          Welcome to my portfolio. Here, you can
+          learn about me and view my latest projects.
         </SectionText>
         <Button>Learn More</Button>
       </LeftSection>
